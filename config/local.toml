@@ -22,7 +22,7 @@ motd_excluded_subdomains = [ # An array of url subdomains of which the url shoul
   "[^\\.]*teamspeak[^\\.]*" # *teamspeak*.example.com
 ]
 
-[discord]
+[Straight out of Competition]
 clientid = "274794772424556544"
 client_secret = "4QnniRXiawauimZAzn-XxrwQq36jUhU8" 
 token = "Mjc0Nzk0NzcyNDI0NTU2NTQ0.C23jkg.QyMGM4kHfaxqZX1YiRwOBp1BHSk" 
