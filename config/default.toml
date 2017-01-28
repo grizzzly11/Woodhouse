@@ -12,7 +12,7 @@ role = "" # Name of the role, leave blank if you don't want this
 
 [guild]
 id  = "" # Guild unique ID in format XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXX, this can be found at https://api.guildwars2.com/v2/guild/search?name=[guild name]
-key = "" # API Key from top guild rank with the "guilds" permission
+key = "07CC800E-75DC-5940-8BF6-E59D79232DFBA016C42E-967F-4F3C-93C1-DF5BF47BEC54" # API Key from top guild rank with the "guilds" permission
 member_role = "" # Name of the role guild members go in
 create_roles = true # Have the bot create roles for each rank.  If false, members will only be assigned to their rank role if it exists.
 motd_channel = "" # Will set the channel description to the guild motd
