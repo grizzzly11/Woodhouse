@@ -11,7 +11,8 @@ var features = config.has('features.enabled') ? config.get('features.enabled').s
 
 gw2.setLanguage(language);
 
-console.log('Use this link to add the bot to a discord server: https://discordapp.com/oauth2/authorize?client_id='+config.get('discord.clientid')+'&scope=bot&permissions=8');
+console.log('Use this link to add the bot to a discord server: https://discordapp.com/oauth2/authorize?274794772424556544
+='+config.get('discord.clientid')+'&scope=bot&permissions=8');
 var bot = new Discord.Client({ autoReconnect: true });
 bot.setMaxListeners(Infinity);
 
