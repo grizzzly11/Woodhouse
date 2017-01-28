@@ -23,8 +23,8 @@ motd_excluded_subdomains = [ # An array of url subdomains of which the url shoul
 ]
 
 [Straight out of Competition]
-clientid = "274794772424556544"
-client_secret = "4QnniRXiawauimZAzn-XxrwQq36jUhU8" 
+clientid = "b4b2037d304ecc120dd1"
+client_secret = "f3ca432a72d1e334944b19fef7f7620ecab58c7e" 
 token = "Mjc0Nzk0NzcyNDI0NTU2NTQ0.C23jkg.QyMGM4kHfaxqZX1YiRwOBp1BHSk" 
 
 # The "web" feature is disabled by default, enabling it adds a webs server which allows users to login and view more detailed reports and configure some options.
